@@ -1,4 +1,4 @@
-Z<h2 align="center">Avya Alex Jasmin Passos de Aquino</h2>
+<h2 align="center">Avya Alex Jasmin Passos de Aquino</h2>
 <h3 align="center">Back-End Dev</h3>
 
 <div align="center">
