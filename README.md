@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Avya Aquino and I'm a Back-End Student, from FATEC SJC</h2>
+<h2 align="left">Avya Alex Jasmin Passos de Aquino</h2>
+<h3>Back-End Dev</h3>
 
 ###
 
