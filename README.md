@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Avya Aquino and I'm a Back-End Student, from FATEC SJC</h2>
 
 ###
 
