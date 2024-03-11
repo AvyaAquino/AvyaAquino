@@ -1,5 +1,5 @@
-<h2 align="left">Avya Alex Jasmin Passos de Aquino</h2>
-<h3>Back-End Dev</h3>
+<h2 align="center">Avya Alex Jasmin Passos de Aquino</h2>
+<h3 align="center">Back-End Dev</h3>
 
 ###
 
