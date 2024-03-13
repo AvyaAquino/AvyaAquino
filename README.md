@@ -8,7 +8,7 @@
 
 </div>
 <p align="center">Gotcha!! My name is Avya Aquino [They|Them, She|Her], i'm a really fan of the Persona Series, animes, games and learning about back-end codes </p>
-<h1 align="center">WARNING!!! NOT A JS DEVELOPER YET</h1>
+<p align="center" color="red" >WARNING!!! NOT A JS DEVELOPER YET</p>
 <p align="center">(Alura Space repo has JS made by other person, in this repo my only contribuition is [DJANGO]</p>
 
 <div align="center">
