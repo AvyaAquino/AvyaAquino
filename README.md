@@ -7,9 +7,7 @@
 <img align="right" height="150" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/72ab7e45-dbad-4185-8874-31ad720b8376/dbwhfim-7c79e8b7-ebc7-466e-ae48-ca992974f874.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcyYWI3ZTQ1LWRiYWQtNDE4NS04ODc0LTMxYWQ3MjBiODM3NlwvZGJ3aGZpbS03Yzc5ZThiNy1lYmM3LTQ2NmUtYWU0OC1jYTk5Mjk3NGY4NzQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4ljn4xtEVW43OKsxPyxVXU_gEPoVjXZjrYM6UQm7Scs"  />
 
 </div>
-<p align="center">Gotcha!! My name is Avya Aquino [They|Them, She|Her], i'm a really fan of the Persona Series, animes, games and learning about back-end codes </p>
-<p align="center" style="color:red;" >WARNING!!! NOT A JS DEVELOPER YET</p>
-<p align="center">(Alura Space repo has JS made by other person, in this repo my only contribuition is [DJANGO]</p>
+<p align="center">Gotcha!! My name is Avya Aquino [Any Pronoun], i'm a really fan of the Persona Series, animes, games and learning about back-end codes </p>
 
 <div align="center">
   <img width="12" />
